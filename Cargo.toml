@@ -1,7 +1,11 @@
 [package]
 name = "rvp"
-description = "Rust Video Player"
 version = "0.1.0"
+authors = ["Mike English <mike.english@gmail.com>"]
+description = "Rust Video Player"
+repository = "https://github.com/englishm/rvp"
+keywords = ["video"]
+readme = "README.md"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 
