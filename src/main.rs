@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("rvp: Rust Video Player");
+    println!("(not yet implemented)");
 }
